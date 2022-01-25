@@ -9,7 +9,7 @@ Installation is a three step process
 ### Step 1: Create a Telegram bot and add it to your chat
 1) Go to @BotFather and create a bot
 1) Add the bot to your chat(channel, group, etc)
-1) Get the chat id (you can get it using @username_to_id_bot)
+1) Get the chat id of the channel of group (you can get it using @username_to_id_bot)
 ### Step 2: Clone and install the extension
 1) Clone the repository to some folder `/path/to/your/folder`
 1) In Chrome browser url go to: `chrome://extensions/`
